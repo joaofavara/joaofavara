@@ -1,16 +1,20 @@
-## Hi there 👋
+## I'm a software developer
 
-<!--
-**joaofavara/joaofavara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofavara&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaofavara&theme=buefy"/></td>
+    </tr>
+</table>
+</center>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,python,go)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,flask,nestjs,react,vue,jest,nginx)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,git,linux,md,openshift)](https://skillicons.dev)
